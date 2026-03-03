@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jaimechapman.xyz/sitemap.xml
